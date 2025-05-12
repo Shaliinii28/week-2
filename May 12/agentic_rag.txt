@@ -1,0 +1,17 @@
+Agentic RAG enhances Retrieval-Augmented Generation with intelligent agents.  
+Standard RAG retrieves documents to inform language model responses.  
+Agentic RAG uses agents to manage retrieval actively.  
+These agents reason and adapt based on query context.  
+They can refine searches if initial results are poor.  
+Agents may rephrase queries for better outcomes.  
+They combine multiple sources for comprehensive answers.  
+Agentic RAG suits complex tasks like question answering.  
+It is effective in legal research applications.  
+Conversational AI benefits from its dynamic retrieval.  
+Agents can interact with external tools for data.  
+Reinforcement learning optimizes agent decision-making processes.  
+User feedback improves Agentic RAG performance over time.  
+It handles ambiguous queries through multiple paths.  
+Computational demands are higher than standard RAG.  
+Agentic RAG is evolving toward greater autonomy.  
+It acts as a proactive knowledge navigator.
