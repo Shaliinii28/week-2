@@ -51,10 +51,8 @@ with your actual key for OpenAI or Gemini (depending on how `OpenAIChatCompletio
 ## 🧠 Run the Application
 
 ```bash
-python your_script_name.py
+travel_planner_final.py
 ```
-
-(Replace `your_script_name.py` with the actual file name, e.g., `travel_planner.py`)
 
 ---
 
@@ -71,18 +69,3 @@ See `requirements.txt` for the full dependency list.
 
 ---
 
-## 📜 License
-
-MIT License (or your preferred license)
-
----
-
-## 👩‍💻 Author
-
-- **Birashalynee S.**
-
----
-
-## 🤝 Contributions
-
-Feel free to fork the repo and submit a PR!
